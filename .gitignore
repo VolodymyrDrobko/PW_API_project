@@ -4,8 +4,8 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+user_login.json
 .env
-/test-data/user_login.json
 
 # report related
 /test-results/
