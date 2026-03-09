@@ -5,6 +5,7 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 .env
+/test-data/user_login.json
 
 # report related
 /test-results/
