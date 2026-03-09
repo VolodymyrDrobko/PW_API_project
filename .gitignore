@@ -1,0 +1,12 @@
+
+# Playwright
+node_modules/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+.env
+
+# report related
+/test-results/
+/playwright-report/
+latency-data.jsonl
